@@ -25,7 +25,7 @@ def main():
     #shape.circle()
     #shape.triangle()
     #shape.square()
-    # shape.rectangle()
+    #shape.rectangle()
     print(shape)
     
 main()
