@@ -7,7 +7,7 @@ hello()
 hello()
 hello()
 
-# the program will print three times because the hello() has been called three times 
+#the program will print three times because the hello() has been called three times 
 
 # def statements with parameters
 # the function is a signed a parameter to be printed  
