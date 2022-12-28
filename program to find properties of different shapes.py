@@ -1,4 +1,4 @@
-#Program to find properties of shapes(circle,triangle,square and rectangle)
+# Program to find properties of shapes(circle,triangle,square and rectangle)
 class Shape:
     def __init__(self,radius,side,base,height,length,width):
         self.side = side
