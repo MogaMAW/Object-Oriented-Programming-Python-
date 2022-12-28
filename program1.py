@@ -20,7 +20,7 @@ hello("Mary")
 
 #parameters are variables that contain arguments 
 
-#define, call, pass, Argument, Parameter\
+#define, call, pass, Argument, Parameter
     
 #Define: to define a function is to create it 
 #Pass: send  a sting value to a function
