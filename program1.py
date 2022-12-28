@@ -28,7 +28,7 @@ hello("Mary")
 #Parameter: are variables that contain arguments 
 
 #returning Values and return statements
-#return value: is the value that a function call evaluates to.
+#return value:is the value that a function call evaluates to.
 #a return statement consists of a return keyword and the values or expression that the function should return. 
 #When an expression is used with a return statement, the return value is what this expression evaluates to. 
 
