@@ -41,6 +41,7 @@ print(e)
 
 
 #USING STRINGS
+
 names ="mark","John","Peter"
 print(names)
 
