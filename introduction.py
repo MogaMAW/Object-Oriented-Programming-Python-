@@ -6,7 +6,7 @@ Intergrated Development Environment ie PyCham(.py extension), VSC.
 '''
 
 #Mathematical operations 
-#addition
+#addition.
 z=2+3
 print(z)
 
