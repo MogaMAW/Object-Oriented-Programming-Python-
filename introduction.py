@@ -5,7 +5,7 @@ python interpreter converts code into binary code
 Intergrated Development Environment ie PyCham(.py extension), VSC.
 '''
 
-# Mathematical operations 
+#Mathematical operations 
 #addition
 z=2+3
 print(z)
