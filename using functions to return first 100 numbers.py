@@ -1,5 +1,4 @@
 #A program to print the first 100 numbers using function(in-built).
-
 from operator import itruediv
 
 
