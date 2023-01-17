@@ -20,6 +20,6 @@ def main():
     loop = LoopIn(0,100)
     for i in loop:
         print(i)
-        
+
 main()
     
