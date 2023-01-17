@@ -1,7 +1,6 @@
 #A program to print the first 100 numbers using function(in-built).
 from operator import itruediv
 
-
 class LoopIn:
     def __init__(self,first,end):
         self.first = first
