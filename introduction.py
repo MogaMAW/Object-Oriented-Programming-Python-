@@ -45,7 +45,7 @@ print(e)
 names ="mark","John","Peter"
 print(names)
 
-#to print double quotes within a string use single quotes at the beginning and end of string.
+#to print double quotes within a string use single quotes at the beginning and end of string
 print('Navin "Laptop".')
 
 #use backward slash \ to use a predefined symbol such as (')
