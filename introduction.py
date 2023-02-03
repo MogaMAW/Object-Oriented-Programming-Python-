@@ -55,7 +55,7 @@ print("Navin \"Laptop\".")
 print("Navin\'s \"Laptop\".")
 
 
-#To print a value multiple times and use \n to send to next line.
+#To print a value multiple times and use \n to send to next line
 print(10*"\nDrimmi")
 
 #using Raw string: r tells the interpretor not to function the \n function.
