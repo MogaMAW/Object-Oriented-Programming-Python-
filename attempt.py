@@ -11,7 +11,7 @@ def main():
     name = input("Enter the name :") #let the user enter their name.
     weight = float(input("Enter the weight: "))
     birth_year = 2002     //is a fixed year       
-    #making all the users have same birth_date of 2002
+    #making all the users have same birth_date of 2002 as a default 
     
     person(name,birth_year, weight)
     
