@@ -1,4 +1,4 @@
-//a python program to get  a user's name and weight then displays the age basing on a fixed birth_year
+// A python program to get  a user's name and weight then displays the age basing on a fixed birth_year
 def person(name,birth_year,weight):
     age = 2002-birth_year
     if name == "": #if no name has been entered
