@@ -21,7 +21,7 @@ class Shape:
         return "\nThe area in each: \n Circle {} \n triangle: {} \n Square: {} \n rectangle {}".format(self.circle(), self.triangle(),self.square(),self.rectangle())
     
 def main():
-    shape = Shape(49,4,4,8,2,6)
+    shape = Shape(49,4,4,8,2,6,90)
     #shape.circle()
     #shape.triangle()
     #shape.square()
