@@ -7,4 +7,5 @@ use_while_studying: bool) -> None:
     if use_while_studying:
         print("Using social media while studying may be affecting your focus.")
 # Test the function
+
 check_negative_effects(5, 600, True)
