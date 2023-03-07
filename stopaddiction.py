@@ -1,4 +1,5 @@
 def social_media_addiction_level(time_spent_on_social_media: int) -> str:
+    
     if time_spent_on_social_media < 2:
         return "Low"
     elif time_spent_on_social_media < 4:
