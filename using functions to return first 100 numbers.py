@@ -16,6 +16,7 @@ class LoopIn:
         else:
             raise StopIteration 
         
+# the loop function to look through from 1 to 100
 def main():
     loop = LoopIn(0,100)
     for i in loop:
