@@ -26,6 +26,8 @@ PrimeChecking(num)
 #Output1 of the above Python program to check the prime number
 #Enter a number to check prime or not: 10
 #The number 10 is not a prime number
+#Enter a number to check prime or not: 37
+
 
 
 
