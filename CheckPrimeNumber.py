@@ -15,7 +15,9 @@ def PrimeChecking(num):
             print("The number ",num, "is a prime number")  
    # If the given number is 1  
     else:  
-        print("The number ",num, "is not a prime number")  
+        print("The number ",num, "is not a prime number") 
+# Input function to take the number from user  
+
 num = int(input("Enter a number to check prime or not: "))  
 PrimeChecking(num)  
 
