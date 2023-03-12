@@ -19,6 +19,9 @@ def PrimeChecking(num):
 # Input function to take the number from user  
 
 num = int(input("Enter a number to check prime or not: "))  
+
+# To print the result, whether a given number is prime or not  
+
 PrimeChecking(num)  
 
 
