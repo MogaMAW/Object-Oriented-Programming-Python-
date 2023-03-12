@@ -13,6 +13,7 @@ def PrimeChecking(num):
         # Else print it as a prime number  
         else:  
             print("The number ",num, "is a prime number")  
+   # If the given number is 1  
     else:  
         print("The number ",num, "is not a prime number")  
 num = int(input("Enter a number to check prime or not: "))  
