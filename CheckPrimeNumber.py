@@ -22,7 +22,9 @@ num = int(input("Enter a number to check prime or not: "))
 
 # To print the result, whether a given number is prime or not  
 
-PrimeChecking(num)  
+PrimeChecking(num)
+#Output1 of the above Python program to check the prime number
+
 
 
 
