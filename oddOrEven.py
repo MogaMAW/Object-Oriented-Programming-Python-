@@ -12,6 +12,8 @@ else:
 # The output after running this code should be 
 #Enter a number: 8
 #8 is Even number
+#Enter a number: 7
+
 
 
 
