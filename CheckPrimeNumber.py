@@ -28,7 +28,7 @@ PrimeChecking(num)
 #The number 10 is not a prime number
 #Enter a number to check prime or not: 37
 #The number 37 is a prime number
-
+# and thats how the program work efficiently 
 
 
 
