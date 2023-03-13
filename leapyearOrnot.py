@@ -14,6 +14,8 @@ def LeapYear(Year):
     # Taking an input year from user  
 
 Year = int(input("Enter the year to check whether a leap year or not: "))  
+# Printing the leap year result  
+
 LeapYear(Year) 
 
 
