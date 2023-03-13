@@ -10,6 +10,8 @@ else:
    print("{0} is Odd number".format(num1))  
 
 # The output after running this code should be 
+#Enter a number: 8
+
 
    
 
