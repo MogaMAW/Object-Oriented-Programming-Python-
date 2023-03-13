@@ -1,5 +1,5 @@
 #Python program to check whether the given year is leap year or not
-
+# Function implementation to check leap year  
 def LeapYear(Year):  
   if((Year % 400 == 0) or  
      (Year % 100 != 0) and  
