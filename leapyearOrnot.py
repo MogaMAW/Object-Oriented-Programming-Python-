@@ -21,6 +21,8 @@ LeapYear(Year)
 #The given Year is a leap year
 
 #Enter the year to check whether a leap year or not: 2021
+#The given year is not a leap year
+
 
 
 
