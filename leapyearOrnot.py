@@ -18,6 +18,7 @@ Year = int(input("Enter the year to check whether a leap year or not: "))
 
 LeapYear(Year) 
 #Enter the year to check whether a leap year or not: 2020
+#The given Year is a leap year
 
 
 
