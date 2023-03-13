@@ -10,7 +10,9 @@ def LeapYear(Year):
     
     # Else it is not a leap year  
   else:  
-    print ("The given Year is not a leap year")  
+    print ("The given Year is not a leap year")
+    # Taking an input year from user  
+
 Year = int(input("Enter the year to check whether a leap year or not: "))  
 LeapYear(Year) 
 
