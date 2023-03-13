@@ -1,6 +1,8 @@
 #Python program to check whether the given year is leap year or not
 # Function implementation to check leap year  
-def LeapYear(Year):  
+def LeapYear(Year): 
+    #Condition to check if the given year is leap year or not  
+
   if((Year % 400 == 0) or  
      (Year % 100 != 0) and  
      (Year % 4 == 0)):   
