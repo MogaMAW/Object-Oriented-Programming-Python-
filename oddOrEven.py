@@ -13,6 +13,8 @@ else:
 #Enter a number: 8
 #8 is Even number
 #Enter a number: 7
+#7 is Odd number
+
 
 
 
