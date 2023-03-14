@@ -6,7 +6,7 @@ def get_vowels(String):
 get_string1 = "hello" # ['e', 'o']
 get_string2 = "python is fun" # ['o', 'i', 'u']
 get_string3 = "coding compiler" # ['o', 'i', 'o', 'i', 'e']
-get_string4 = "12345xyz" 
+get_string4 = "12345xyz" # []
 
 
 
