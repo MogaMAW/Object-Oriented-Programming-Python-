@@ -1,4 +1,5 @@
 #Python Program to Find Vowels From a String
+#defining a function
 
 
 
