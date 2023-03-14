@@ -22,3 +22,5 @@ print("The Vowels Are:  ",get_vowels(get_string3))
 #Vowels from fourth  string
 print("The Vowels Are:  ",get_vowels(get_string4))
 
+#Output of the above program is:
+
