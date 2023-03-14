@@ -5,7 +5,7 @@ def get_vowels(String):
     return [each for each in String if each in "aeiou"]
 get_string1 = "hello" # ['e', 'o']
 get_string2 = "python is fun" # ['o', 'i', 'u']
-get_string3 = "coding compiler" 
+get_string3 = "coding compiler" # ['o', 'i', 'o', 'i', 'e']
 get_string4 = "12345xyz" 
 
 
