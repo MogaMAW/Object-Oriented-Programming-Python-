@@ -16,6 +16,7 @@ print("The Vowels Are:  ",get_vowels(get_string1))
 #Vowels from second string
 print("The Vowels Are:  ",get_vowels(get_string2))
 
+#Vowels from third string
 print("The Vowels Are:  ",get_vowels(get_string3))
 
 #Vowels from fourth  string
