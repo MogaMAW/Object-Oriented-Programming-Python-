@@ -11,14 +11,13 @@ get_string4 = "12345xyz" # []
 
 #Let's print vowels from the given strigns
 #Vowels from first string
-
-#Vowels from second string
 print("The Vowels Are:  ",get_vowels(get_string1))
 
-#Vowels from third string
+#Vowels from second string
 print("The Vowels Are:  ",get_vowels(get_string2))
 
 print("The Vowels Are:  ",get_vowels(get_string3))
 
+#Vowels from fourth  string
 print("The Vowels Are:  ",get_vowels(get_string4))
 
