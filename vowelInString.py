@@ -23,4 +23,6 @@ print("The Vowels Are:  ",get_vowels(get_string3))
 print("The Vowels Are:  ",get_vowels(get_string4))
 
 #Output of the above program is:
+#The Vowels Are: [‘e’, ‘o’]
+
 
