@@ -1,3 +1,4 @@
+# Python program to print all prime number in an interval
 def disp_Prime(num1, num2):
 	prime_List = []
 	for i in range(num1, num2):
