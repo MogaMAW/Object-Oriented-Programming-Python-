@@ -11,7 +11,7 @@ def disp_Prime(num1, num2):
 			else:
 				prime_List.append(i)
 	return prime_List
-
+# Driver program
 starting_Num = int(input('Enter the starting range: '))
 ending_Num = int(input('Enter the ending range: '))
 lst = disp_Prime(starting_Num, ending_Num)
