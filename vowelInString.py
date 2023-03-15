@@ -27,7 +27,7 @@ print("The Vowels Are:  ",get_vowels(get_string4))
 #The Vowels Are: [‘e’, ‘o’]
 #The Vowels Are: [‘o’, ‘i’, ‘u’]
 #The Vowels Are: [‘o’, ‘i’, ‘o’, ‘i’, ‘e’]\
-#The Vowels Are: []
+#The Vowels Are: [] -- because there was no any vowel used 
 
 
 
