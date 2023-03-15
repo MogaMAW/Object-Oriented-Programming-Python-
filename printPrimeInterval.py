@@ -19,3 +19,5 @@ if len(lst) == 0:
 	print("There are no prime numbers in this range")
 else:
 	print("The prime numbers in the given range are: ", lst)
+#This is how the output looks like 
+
