@@ -1,5 +1,5 @@
 #Python Program to Find Vowels From a String
-#defining a function
+#defining a function called get_vowels 
 
 def get_vowels(String):
     return [each for each in String if each in "aeiou"]
