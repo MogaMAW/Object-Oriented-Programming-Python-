@@ -1,5 +1,5 @@
 # Python program to print all prime number in an interval that a user prefers
-def disp_Prime(num1, num2):
+def disp_Prime(num1, num2): # defining a function disp_Prime 
 	prime_List = []
 	for i in range(num1, num2):
 		if i == 0 or i == 1:
