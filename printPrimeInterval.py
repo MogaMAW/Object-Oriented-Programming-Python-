@@ -22,6 +22,8 @@ else:
 #This is how the output looks like 
 #Enter the starting range: 5
 #Enter the ending range: 25
+#The prime numbers in this range are: [5, 7, 11, 13, 17, 19, 23]
+
 
 
 
