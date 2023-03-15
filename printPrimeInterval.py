@@ -21,5 +21,7 @@ else:
 	print("The prime numbers in the given range are: ", lst)
 #This is how the output looks like 
 #Enter the starting range: 5
+#Enter the ending range: 25
+
 
 
