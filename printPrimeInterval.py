@@ -16,7 +16,7 @@ def disp_Prime(num1, num2): # defining a function disp_Prime
 starting_Num = int(input('Enter the starting range: '))
 ending_Num = int(input('Enter the ending range: '))
 lst = disp_Prime(starting_Num, ending_Num)
-if len(lst) == 0:
+if len(lst) == 0: #if a list doesnt exist 
 	print("There are no prime numbers in this range")
 else:
 	print("The prime numbers in the given range are: ", lst)
