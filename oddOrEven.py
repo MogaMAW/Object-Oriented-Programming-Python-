@@ -14,6 +14,7 @@ else:
 #8 is Even number
 #Enter a number: 7
 #7 is Odd number
+#and true 7 is an oodd number 
 
 
 
