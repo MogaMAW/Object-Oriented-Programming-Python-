@@ -10,7 +10,7 @@ get_string3 = "coding compiler" # ['o', 'i', 'o', 'i', 'e']
 get_string4 = "12345xyz" # []
 
 
-#Let's print vowels from the given strigns
+#Let's print vowels from the given strings 
 #Vowels from first string
 print("The Vowels Are:  ",get_vowels(get_string1))
 
