@@ -10,7 +10,7 @@ def PrimeChecking(num):
                    #If divisible by any number it's then not a prime number.
                 print("The number ",num, "is not a prime number")  
                 break  
-        # Else print the number  as a prime number  
+        # Else print the number  as a prime number.  
         else:  
             print("The number ",num, "is a prime number")  
    # If the given number is 1.  
