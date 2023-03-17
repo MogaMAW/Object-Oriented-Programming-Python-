@@ -20,7 +20,7 @@ print("The Vowels Are:  ",get_vowels(get_string2))
 #Vowels from third string
 print("The Vowels Are:  ",get_vowels(get_string3))
 
-#Vowels from fourth  string
+#Vowels from fourth strong.
 print("The Vowels Are:  ",get_vowels(get_string4))
 
 #Output of the above program is:
