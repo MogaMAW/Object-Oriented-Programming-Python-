@@ -1,4 +1,4 @@
-#Python program to check if a number is odd or even
+#Python program to check if a number is odd or even.
 
 #To get the input from user
 num1 = input("Enter a number: ") 
