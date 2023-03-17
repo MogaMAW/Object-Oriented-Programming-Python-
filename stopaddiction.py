@@ -10,6 +10,7 @@ def social_media_addiction_level(time_spent_on_social_media: int) -> str:
         print("You should stop using social media.")
         return "High"
 # Test the function to get the outcomes 
+#either low, moderate or high 
 print(social_media_addiction_level(1)) # Low
 print(social_media_addiction_level(3)) # Moderate
 print(social_media_addiction_level(5)) # High
