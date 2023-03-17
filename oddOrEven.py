@@ -9,7 +9,7 @@ if (int(num1) % 2) == 0:
 else:  
    print("{0} is Odd number".format(num1))  
 
-# The output after running this code should be 
+# The output after running this code should be similar to this 
 #Enter a number: 8
 #8 is Even number
 #Enter a number: 7
