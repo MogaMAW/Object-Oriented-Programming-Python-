@@ -1,7 +1,7 @@
 # Function to check prime-number.  
 
 def PrimeChecking(num): 
-        # Condition to check given number is more than 1  
+        # Condition to check given number is more than  1  
     if num > 1:  
           # For look to iterate over the given number  
         for i in range(2, int(num/2) + 1):  
