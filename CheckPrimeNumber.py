@@ -7,7 +7,7 @@ def PrimeChecking(num):
         for i in range(2, int(num/2) + 1):  
              # Condition to check if the given number is divisible.   
             if (num % i) == 0:  
-                   #If divisible by any number it's not a prime number
+                   #If divisible by any number it's then not a prime number.
                 print("The number ",num, "is not a prime number")  
                 break  
         # Else print it as a prime number  
