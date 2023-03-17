@@ -11,7 +11,7 @@ get_string4 = "12345xyz" # []
 
 
 #Let's print vowels from the given strings 
-#Vowels from first string
+#Vowels from first strong are e and o
 print("The Vowels Are:  ",get_vowels(get_string1))
 
 #Vowels from second string
