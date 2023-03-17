@@ -1,4 +1,4 @@
-# Function to check prime number  
+# Function to check prime-number.  
 
 def PrimeChecking(num): 
         # Condition to check given number is more than 1  
