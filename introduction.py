@@ -1,7 +1,7 @@
 '''
 introduction to python.
 Python is an intergrated,object-oriented high level language.
-python interpreter converts code into binary code
+python interpreter converts code into binary code.
 Intergrated Development Environment ie PyCham(.py extension), VSC.
 '''
 
